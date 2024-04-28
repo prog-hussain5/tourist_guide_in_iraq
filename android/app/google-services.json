@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "908877230223",
+    "project_id": "fir-auth-app-615b2",
+    "storage_bucket": "fir-auth-app-615b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908877230223:android:d4e6b9543963daa42d00fa",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908877230223-0l4trr666q4l4olcu7v9264vi7np7frj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6kMDhXNiwA01aWJ7IRuCO-7AIMbEiCUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908877230223-0l4trr666q4l4olcu7v9264vi7np7frj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908877230223:android:af6d651c140f339f2d00fa",
+        "android_client_info": {
+          "package_name": "com.example.tourist_guide_in_iraq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908877230223-0l4trr666q4l4olcu7v9264vi7np7frj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6kMDhXNiwA01aWJ7IRuCO-7AIMbEiCUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908877230223-0l4trr666q4l4olcu7v9264vi7np7frj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
